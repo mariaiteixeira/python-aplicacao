@@ -6,11 +6,16 @@ Projeto sendo desenvolvido pelo curso [Python: crie a sua primeira aplicação](
 Em construção 🏗️
 
 ## Ao longo do projeto, as seguintes habilidades foram desenvolvidas:
-- `input()`
-- `print()`
-- Formatação por **f-string**
-- Aspas triplas (‘’’)
-- Interpolação de strings
+- `input()`;
+- `print()`;
+- Formatação por **f-string**;
+- Aspas triplas (‘’’);
+- Interpolação de strings;
+- Casting;
+- `if` e `else`;
+- `def` para funções;
+- `if __name__ == __main__`;
+- `match` no lugar das condições `if` e `else`
 
 ## Tecnologias utilizadas neste projeto:
 <img height="30" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
