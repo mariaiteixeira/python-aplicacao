@@ -15,7 +15,10 @@ Em construção 🏗️
 - `if` e `else`;
 - `def` para funções;
 - `if __name__ == __main__`;
-- `match` no lugar das condições `if` e `else`
+- `match` no lugar das condições `if` e `else`;
+- `for` e `while`;
+- `try` e `except` para exceções;
+- Função **`range()`**.
 
 ## Tecnologias utilizadas neste projeto:
 <img height="30" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
