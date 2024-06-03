@@ -3,7 +3,7 @@
 Projeto desenvolvido pelo curso [Python: crie a sua primeira aplicação](https://cursos.alura.com.br/course/python-crie-sua-primeira-aplicacao), na plataforma da **[Alura](https://www.alura.com.br/)**.
 
 ## Sobre o projeto
-Foi criada uma aplicação chamada **Sabor Express** com a linguagem Python! E o ambiente utilizado foi o Visual Studio Code.
+Foi criada uma aplicação chamada **Sabor Express** com a linguagem Python! E o ambiente utilizado foi o Visual Studio Code. Esse curso foi introdutório sobre orientação a objetos da formação [Aprenda a programar em Python com Orientação a Objetos](https://cursos.alura.com.br/formacao-linguagem-python).
 
 ## Ao longo do projeto, as seguintes habilidades foram desenvolvidas:
 - `input()`;
